@@ -1,6 +1,6 @@
 - 👋 **Hi, I’m Angel Alfaro**
 - 👀 **Soy parte de la tripulacion de la misión en el Programa Virtual Innovacción impulsado por Microsoft**
-- 🌱 **I’m currently learning Python, HTML, CSS**
+- 🌱 **Estoy aprendiendo Python, HTML, CSS y Scrum Master**
 
 
 <!---
